@@ -102,7 +102,7 @@ class Template extends React.Component {
               </li>
               <li>
                 <a
-                  href="http://smarturl.it/pinegrovestore"
+                  href="https://pinegrove.merchtable.com/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

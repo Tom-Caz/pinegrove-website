@@ -24,7 +24,7 @@ const links = [
   //   text: 'marigold ticket pre-sale',
   // },
   { location: '/albums/', text: 'recordings' },
-  { location: 'http://smarturl.it/pinegrovestore', text: 'store' },
+  { location: 'https://pinegrove.merchtable.com/', text: 'store' },
   // { location: '/search/', text: 'search' },
   // { location: '/tour-archive/', text: 'tour archive' },
   // { location: '/media/', text: 'media' },
